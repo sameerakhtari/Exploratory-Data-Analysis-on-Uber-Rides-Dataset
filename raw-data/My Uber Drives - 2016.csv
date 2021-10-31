@@ -107,53 +107,53 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 2/14/2016 14:46,2/14/2016 15:03,Business,Midtown,Midtown West,2,Meeting
 2/14/2016 16:35,2/14/2016 17:02,Business,New York,Long Island City,13,Meeting
 2/14/2016 17:06,2/14/2016 17:29,Business,Long Island City,Jamaica,13.9,Meeting
-2/16/2016 3:21,2/16/2016 4:13,Business,Katunayaka,Unknown Location,43.7,Customer Visit
-2/16/2016 8:29,2/16/2016 9:34,Business,Unknown Location,Colombo,14.1,
+2/16/2016 3:21,2/16/2016 4:13,Business,Katunayaka,,43.7,Customer Visit
+2/16/2016 8:29,2/16/2016 9:34,Business,,Colombo,14.1,
 2/16/2016 10:31,2/16/2016 10:41,Business,Colombo,Colombo,2.6,
 2/16/2016 11:32,2/16/2016 12:02,Business,Colombo,Colombo,4.5,
 2/16/2016 12:39,2/16/2016 12:42,Business,Colombo,Colombo,1.7,
 2/16/2016 13:43,2/16/2016 13:55,Business,Colombo,Colombo,1.8,Temporary Site
 2/16/2016 16:34,2/16/2016 17:10,Business,Colombo,Colombo,6,
 2/16/2016 17:17,2/16/2016 17:26,Business,Colombo,Nugegoda,1.1,Meal/Entertain
-2/16/2016 17:40,2/16/2016 17:44,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
-2/17/2016 13:18,2/17/2016 14:04,Business,Unknown Location,Colombo,14.7,Temporary Site
+2/16/2016 17:40,2/16/2016 17:44,Business,Nugegoda,,3.6,Errand/Supplies
+2/17/2016 13:18,2/17/2016 14:04,Business,,Colombo,14.7,Temporary Site
 2/17/2016 15:17,2/17/2016 15:22,Business,Colombo,Colombo,1.7,Meal/Entertain
 2/17/2016 15:33,2/17/2016 16:17,Business,Colombo,Katunayaka,21.4,Temporary Site
 2/17/2016 16:38,2/17/2016 16:43,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies
-2/18/2016 8:19,2/18/2016 8:27,Business,Unknown Location,Unknown Location,23.5,Temporary Site
-2/18/2016 14:03,2/18/2016 14:45,Business,Unknown Location,Islamabad,12.7,Temporary Site
-2/18/2016 15:16,2/18/2016 15:31,Business,Islamabad,Unknown Location,6,Temporary Site
-2/18/2016 18:44,2/18/2016 18:58,Business,Unknown Location,Islamabad,5.2,Customer Visit
-2/18/2016 19:27,2/18/2016 20:08,Business,Islamabad,Unknown Location,10,Meeting
-2/19/2016 9:02,2/19/2016 9:14,Business,Unknown Location,Unknown Location,18.3,Meeting
-2/19/2016 9:21,2/19/2016 9:51,Business,Unknown Location,Unknown Location,11.2,Meeting
-2/19/2016 10:21,2/19/2016 10:48,Business,Unknown Location,Islamabad,7.6,Meeting
+2/18/2016 8:19,2/18/2016 8:27,Business,,,23.5,Temporary Site
+2/18/2016 14:03,2/18/2016 14:45,Business,,Islamabad,12.7,Temporary Site
+2/18/2016 15:16,2/18/2016 15:31,Business,Islamabad,,6,Temporary Site
+2/18/2016 18:44,2/18/2016 18:58,Business,,Islamabad,5.2,Customer Visit
+2/18/2016 19:27,2/18/2016 20:08,Business,Islamabad,,10,Meeting
+2/19/2016 9:02,2/19/2016 9:14,Business,,,18.3,Meeting
+2/19/2016 9:21,2/19/2016 9:51,Business,,,11.2,Meeting
+2/19/2016 10:21,2/19/2016 10:48,Business,,Islamabad,7.6,Meeting
 2/19/2016 11:20,2/19/2016 11:26,Personal,Islamabad,Islamabad,1.5,
 2/19/2016 11:45,2/19/2016 11:50,Personal,Islamabad,Islamabad,1,
-2/19/2016 12:09,2/19/2016 12:27,Business,Islamabad,Unknown Location,7.3,Temporary Site
-2/19/2016 16:26,2/19/2016 16:45,Business,Unknown Location,Islamabad,3.5,
+2/19/2016 12:09,2/19/2016 12:27,Business,Islamabad,,7.3,Temporary Site
+2/19/2016 16:26,2/19/2016 16:45,Business,,Islamabad,3.5,
 2/19/2016 17:09,2/19/2016 17:20,Business,Islamabad,Islamabad,4.2,
-2/19/2016 20:08,2/19/2016 20:30,Personal,Islamabad,Unknown Location,13.6,
-2/19/2016 20:34,2/19/2016 20:51,Personal,Unknown Location,Unknown Location,2.5,
-2/20/2016 7:59,2/20/2016 8:32,Personal,Unknown Location,Islamabad,14.4,
+2/19/2016 20:08,2/19/2016 20:30,Personal,Islamabad,,13.6,
+2/19/2016 20:34,2/19/2016 20:51,Personal,,,2.5,
+2/20/2016 7:59,2/20/2016 8:32,Personal,,Islamabad,14.4,
 2/20/2016 10:48,2/20/2016 10:56,Personal,Islamabad,Islamabad,3,
 2/20/2016 11:45,2/20/2016 11:53,Personal,Islamabad,Islamabad,1.5,
 2/20/2016 12:41,2/20/2016 13:17,Business,Islamabad,Rawalpindi,18.4,
 2/20/2016 14:50,2/20/2016 15:54,Business,Rawalpindi,Rawalpindi,23.1,Meeting
-2/20/2016 16:59,2/20/2016 17:54,Personal,Rawalpindi,Unknown Location,16.5,
-2/20/2016 18:00,2/20/2016 18:03,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
-2/20/2016 19:28,2/20/2016 19:49,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
-2/21/2016 9:07,2/21/2016 9:46,Business,Unknown Location,Islamabad,14.5,
-2/21/2016 11:39,2/21/2016 11:43,Business,Unknown Location,Islamabad,2.4,Errand/Supplies
+2/20/2016 16:59,2/20/2016 17:54,Personal,Rawalpindi,,16.5,
+2/20/2016 18:00,2/20/2016 18:03,Business,,,3.2,Errand/Supplies
+2/20/2016 19:28,2/20/2016 19:49,Business,,,7.7,Errand/Supplies
+2/21/2016 9:07,2/21/2016 9:46,Business,,Islamabad,14.5,
+2/21/2016 11:39,2/21/2016 11:43,Business,,Islamabad,2.4,Errand/Supplies
 2/21/2016 11:47,2/21/2016 12:01,Business,Islamabad,Islamabad,4.6,Errand/Supplies
-2/21/2016 12:13,2/21/2016 12:35,Business,Islamabad,Unknown Location,8.8,Meal/Entertain
-2/21/2016 12:51,2/21/2016 13:12,Business,Unknown Location,Unknown Location,8.3,Temporary Site
-2/21/2016 13:33,2/21/2016 14:30,Business,Unknown Location,Unknown Location,22.7,Temporary Site
-2/21/2016 14:36,2/21/2016 15:03,Business,Unknown Location,Islamabad,13,Temporary Site
+2/21/2016 12:13,2/21/2016 12:35,Business,Islamabad,,8.8,Meal/Entertain
+2/21/2016 12:51,2/21/2016 13:12,Business,,,8.3,Temporary Site
+2/21/2016 13:33,2/21/2016 14:30,Business,,,22.7,Temporary Site
+2/21/2016 14:36,2/21/2016 15:03,Business,,Islamabad,13,Temporary Site
 2/21/2016 15:14,2/21/2016 15:31,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
-2/21/2016 15:36,2/21/2016 15:41,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
-2/21/2016 16:04,2/21/2016 16:32,Business,Unknown Location,Unknown Location,9.7,
-2/21/2016 23:15,2/21/2016 23:52,Business,Unknown Location,Rawalpindi,20,Meeting
+2/21/2016 15:36,2/21/2016 15:41,Business,Noorpur Shahan,,2.2,Meal/Entertain
+2/21/2016 16:04,2/21/2016 16:32,Business,,,9.7,
+2/21/2016 23:15,2/21/2016 23:52,Business,,Rawalpindi,20,Meeting
 2/22/2016 21:54,2/22/2016 22:09,Business,Morrisville,Cary,8.1,Customer Visit
 2/24/2016 14:30,2/24/2016 14:35,Business,Whitebridge,Preston,1.5,
 2/24/2016 15:19,2/24/2016 15:25,Business,Preston,Whitebridge,1.7,Errand/Supplies
@@ -437,7 +437,7 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 6/13/2016 14:17,6/13/2016 14:46,Business,Oakland,Emeryville,13.2,Meeting
 6/13/2016 18:08,6/13/2016 18:47,Business,Emeryville,Berkeley,3.9,Meal/Entertain
 6/13/2016 18:54,6/13/2016 19:23,Business,Berkeley,Oakland,5.1,Meal/Entertain
-6/13/2016 20:00,6/13/2016 20:05,Business,Oakland,Unknown Location,5.2,Customer Visit
+6/13/2016 20:00,6/13/2016 20:05,Business,Oakland,,5.2,Customer Visit
 6/14/2016 12:03,6/14/2016 12:21,Business,Emeryville,San Francisco,9.8,
 6/14/2016 16:09,6/14/2016 16:39,Business,San Francisco,Emeryville,11.6,Meeting
 6/14/2016 17:15,6/14/2016 17:24,Business,Emeryville,Oakland,5.1,Meeting
@@ -655,164 +655,164 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 08/12/2016 18:49,08/12/2016 18:52,Business,Whitebridge,Westpark Place,1.9,
 08/12/2016 18:56,08/12/2016 19:05,Business,Westpark Place,Whitebridge,1.8,
 8/13/2016 15:35,8/13/2016 15:58,Business,Cary,Morrisville,8.4,Meeting
-8/15/2016 9:05,8/15/2016 9:52,Business,Rawalpindi,Unknown Location,15.6,
-8/15/2016 15:20,8/15/2016 15:47,Business,Unknown Location,Unknown Location,14.1,
-8/15/2016 16:52,8/15/2016 17:30,Business,Unknown Location,Unknown Location,15.7,
-8/15/2016 19:08,8/15/2016 20:30,Business,Unknown Location,Unknown Location,25.9,Temporary Site
-8/16/2016 7:58,8/16/2016 8:11,Business,Unknown Location,Unknown Location,7.9,
-8/16/2016 8:16,8/16/2016 8:23,Business,Unknown Location,Unknown Location,2.7,
-8/16/2016 8:46,8/16/2016 8:53,Business,Unknown Location,Unknown Location,5.5,
-8/16/2016 10:06,8/16/2016 10:27,Business,Unknown Location,Islamabad,5.7,
+8/15/2016 9:05,8/15/2016 9:52,Business,Rawalpindi,,15.6,
+8/15/2016 15:20,8/15/2016 15:47,Business,,,14.1,
+8/15/2016 16:52,8/15/2016 17:30,Business,,,15.7,
+8/15/2016 19:08,8/15/2016 20:30,Business,,,25.9,Temporary Site
+8/16/2016 7:58,8/16/2016 8:11,Business,,,7.9,
+8/16/2016 8:16,8/16/2016 8:23,Business,,,2.7,
+8/16/2016 8:46,8/16/2016 8:53,Business,,,5.5,
+8/16/2016 10:06,8/16/2016 10:27,Business,,Islamabad,5.7,
 8/16/2016 10:31,8/16/2016 10:38,Business,Islamabad,Islamabad,1.2,
-8/16/2016 11:47,8/16/2016 12:03,Business,Islamabad,Unknown Location,5.7,Temporary Site
-8/16/2016 15:13,8/16/2016 15:36,Business,Unknown Location,Unknown Location,16.2,
-8/17/2016 10:17,8/17/2016 10:41,Business,Unknown Location,Unknown Location,2.6,
-8/17/2016 10:57,8/17/2016 11:20,Business,Unknown Location,Unknown Location,12.1,
-8/17/2016 14:45,8/17/2016 14:50,Business,Unknown Location,Rawalpindi,1.4,
+8/16/2016 11:47,8/16/2016 12:03,Business,Islamabad,,5.7,Temporary Site
+8/16/2016 15:13,8/16/2016 15:36,Business,,,16.2,
+8/17/2016 10:17,8/17/2016 10:41,Business,,,2.6,
+8/17/2016 10:57,8/17/2016 11:20,Business,,,12.1,
+8/17/2016 14:45,8/17/2016 14:50,Business,,Rawalpindi,1.4,
 8/17/2016 15:32,8/17/2016 15:47,Business,Rawalpindi,Islamabad,6.4,
-8/17/2016 16:29,8/17/2016 16:50,Business,Islamabad,Unknown Location,7.3,
-8/17/2016 16:54,8/17/2016 17:00,Business,Unknown Location,Unknown Location,5.3,
-8/17/2016 17:05,8/17/2016 17:34,Business,Unknown Location,Unknown Location,5.5,
-8/17/2016 18:38,8/17/2016 18:57,Business,Unknown Location,Unknown Location,7.7,Temporary Site
-8/18/2016 18:40,8/18/2016 19:07,Business,Unknown Location,Unknown Location,7.6,Temporary Site
-8/19/2016 8:24,8/19/2016 8:45,Business,Unknown Location,Noorpur Shahan,7.6,
+8/17/2016 16:29,8/17/2016 16:50,Business,Islamabad,,7.3,
+8/17/2016 16:54,8/17/2016 17:00,Business,,,5.3,
+8/17/2016 17:05,8/17/2016 17:34,Business,,,5.5,
+8/17/2016 18:38,8/17/2016 18:57,Business,,,7.7,Temporary Site
+8/18/2016 18:40,8/18/2016 19:07,Business,,,7.6,Temporary Site
+8/19/2016 8:24,8/19/2016 8:45,Business,,Noorpur Shahan,7.6,
 8/19/2016 8:54,8/19/2016 9:07,Business,Noorpur Shahan,Islamabad,3.3,
 8/19/2016 9:27,8/19/2016 9:47,Business,Islamabad,Rawalpindi,6.5,
-8/19/2016 10:57,8/19/2016 11:06,Business,Rawalpindi,Unknown Location,2,
-8/19/2016 12:07,8/19/2016 12:24,Business,Unknown Location,Islamabad,5.7,
+8/19/2016 10:57,8/19/2016 11:06,Business,Rawalpindi,,2,
+8/19/2016 12:07,8/19/2016 12:24,Business,,Islamabad,5.7,
 8/19/2016 15:51,8/19/2016 16:06,Business,Islamabad,Islamabad,3.2,
-8/19/2016 17:12,8/19/2016 17:52,Business,Islamabad,Unknown Location,12.5,
-8/21/2016 10:00,8/21/2016 10:29,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
-8/21/2016 14:05,8/21/2016 14:34,Business,Unknown Location,Unknown Location,7.7,
-8/21/2016 16:30,8/21/2016 17:02,Business,Unknown Location,Islamabad,12.2,
+8/19/2016 17:12,8/19/2016 17:52,Business,Islamabad,,12.5,
+8/21/2016 10:00,8/21/2016 10:29,Business,,,7.6,Airport/Travel
+8/21/2016 14:05,8/21/2016 14:34,Business,,,7.7,
+8/21/2016 16:30,8/21/2016 17:02,Business,,Islamabad,12.2,
 8/21/2016 18:10,8/21/2016 18:17,Business,Islamabad,Islamabad,1.4,
-8/21/2016 18:48,8/21/2016 19:24,Business,Islamabad,Unknown Location,20.2,
-8/22/2016 10:00,8/22/2016 10:44,Business,Unknown Location,Islamabad,9.8,
-8/22/2016 11:07,8/22/2016 11:23,Business,Islamabad,Unknown Location,6.3,
-8/22/2016 12:36,8/22/2016 12:49,Business,Unknown Location,Islamabad,4.9,
+8/21/2016 18:48,8/21/2016 19:24,Business,Islamabad,,20.2,
+8/22/2016 10:00,8/22/2016 10:44,Business,,Islamabad,9.8,
+8/22/2016 11:07,8/22/2016 11:23,Business,Islamabad,,6.3,
+8/22/2016 12:36,8/22/2016 12:49,Business,,Islamabad,4.9,
 8/22/2016 13:02,8/22/2016 13:11,Business,Islamabad,Islamabad,1.5,
-8/22/2016 14:07,8/22/2016 14:31,Business,Islamabad,Unknown Location,10.9,
-8/22/2016 15:14,8/22/2016 15:49,Business,Unknown Location,Unknown Location,19,
-8/22/2016 15:59,8/22/2016 17:16,Business,Unknown Location,Unknown Location,19,
-8/22/2016 19:58,8/22/2016 20:50,Business,Unknown Location,Rawalpindi,7.9,
+8/22/2016 14:07,8/22/2016 14:31,Business,Islamabad,,10.9,
+8/22/2016 15:14,8/22/2016 15:49,Business,,,19,
+8/22/2016 15:59,8/22/2016 17:16,Business,,,19,
+8/22/2016 19:58,8/22/2016 20:50,Business,,Rawalpindi,7.9,
 8/22/2016 20:53,8/22/2016 21:31,Business,Rawalpindi,Rawalpindi,4.1,
-8/22/2016 22:31,8/22/2016 23:00,Business,Rawalpindi,Unknown Location,18.7,
-8/23/2016 8:10,8/23/2016 8:25,Business,Unknown Location,Noorpur Shahan,8.7,
-8/23/2016 9:35,8/23/2016 10:09,Business,Noorpur Shahan,Unknown Location,7.5,
-8/23/2016 12:59,8/23/2016 13:15,Business,Unknown Location,Noorpur Shahan,7.7,
+8/22/2016 22:31,8/22/2016 23:00,Business,Rawalpindi,,18.7,
+8/23/2016 8:10,8/23/2016 8:25,Business,,Noorpur Shahan,8.7,
+8/23/2016 9:35,8/23/2016 10:09,Business,Noorpur Shahan,,7.5,
+8/23/2016 12:59,8/23/2016 13:15,Business,,Noorpur Shahan,7.7,
 8/23/2016 13:19,8/23/2016 13:30,Business,Noorpur Shahan,Islamabad,4.4,
-8/23/2016 13:49,8/23/2016 14:04,Business,Islamabad,Unknown Location,5,
-8/23/2016 15:07,8/23/2016 15:12,Business,Unknown Location,Unknown Location,1.9,
-8/23/2016 15:15,8/23/2016 17:16,Business,Unknown Location,Unknown Location,7.9,
-8/23/2016 17:42,8/23/2016 18:31,Business,Unknown Location,Unknown Location,17.7,
-8/24/2016 12:05,8/24/2016 12:56,Business,Unknown Location,Unknown Location,25.2,
-8/24/2016 13:01,8/24/2016 15:25,Business,Unknown Location,Unknown Location,96.2,
-8/25/2016 15:17,8/25/2016 16:22,Business,Unknown Location,Unknown Location,35,
-8/25/2016 16:36,8/25/2016 16:56,Business,Unknown Location,Unknown Location,5.5,
-8/25/2016 17:19,8/25/2016 19:20,Business,Unknown Location,Unknown Location,50.4,
-8/25/2016 19:25,8/25/2016 19:57,Business,Unknown Location,Lahore,9.2,
-8/25/2016 22:58,8/25/2016 23:16,Business,Lahore,Unknown Location,7.3,
-8/26/2016 9:06,8/26/2016 9:20,Business,Unknown Location,Unknown Location,5,
-8/26/2016 11:14,8/26/2016 11:26,Business,Unknown Location,Unknown Location,3.8,
-8/26/2016 12:10,8/26/2016 12:20,Business,Unknown Location,Lahore,3.9,
+8/23/2016 13:49,8/23/2016 14:04,Business,Islamabad,,5,
+8/23/2016 15:07,8/23/2016 15:12,Business,,,1.9,
+8/23/2016 15:15,8/23/2016 17:16,Business,,,7.9,
+8/23/2016 17:42,8/23/2016 18:31,Business,,,17.7,
+8/24/2016 12:05,8/24/2016 12:56,Business,,,25.2,
+8/24/2016 13:01,8/24/2016 15:25,Business,,,96.2,
+8/25/2016 15:17,8/25/2016 16:22,Business,,,35,
+8/25/2016 16:36,8/25/2016 16:56,Business,,,5.5,
+8/25/2016 17:19,8/25/2016 19:20,Business,,,50.4,
+8/25/2016 19:25,8/25/2016 19:57,Business,,Lahore,9.2,
+8/25/2016 22:58,8/25/2016 23:16,Business,Lahore,,7.3,
+8/26/2016 9:06,8/26/2016 9:20,Business,,,5,
+8/26/2016 11:14,8/26/2016 11:26,Business,,,3.8,
+8/26/2016 12:10,8/26/2016 12:20,Business,,Lahore,3.9,
 8/26/2016 14:10,8/26/2016 14:33,Business,Lahore,Lahore,7.4,
 8/26/2016 15:23,8/26/2016 15:35,Business,Lahore,Lahore,1.5,
-8/26/2016 15:59,8/26/2016 16:24,Business,Lahore,Unknown Location,7.9,
-8/26/2016 16:55,8/26/2016 17:12,Business,Unknown Location,Lahore,2.9,
+8/26/2016 15:59,8/26/2016 16:24,Business,Lahore,,7.9,
+8/26/2016 16:55,8/26/2016 17:12,Business,,Lahore,2.9,
 8/26/2016 18:42,8/26/2016 18:56,Business,Lahore,Lahore,3.4,
 8/26/2016 19:31,8/26/2016 19:54,Business,Lahore,Lahore,3.8,
-8/26/2016 20:06,8/26/2016 20:16,Business,Lahore,Unknown Location,5.9,
-8/27/2016 9:34,8/27/2016 10:11,Business,Unknown Location,Lahore,9.6,
+8/26/2016 20:06,8/26/2016 20:16,Business,Lahore,,5.9,
+8/27/2016 9:34,8/27/2016 10:11,Business,,Lahore,9.6,
 8/27/2016 11:47,8/27/2016 12:06,Business,Lahore,Lahore,7,
 8/27/2016 12:12,8/27/2016 12:17,Business,Lahore,Lahore,0.9,
-8/27/2016 14:01,8/27/2016 15:44,Business,Lahore,Unknown Location,86.6,
-8/27/2016 16:15,8/27/2016 19:13,Business,Unknown Location,Unknown Location,156.9,
-8/28/2016 9:57,8/28/2016 10:18,Business,Unknown Location,Noorpur Shahan,10.1,
+8/27/2016 14:01,8/27/2016 15:44,Business,Lahore,,86.6,
+8/27/2016 16:15,8/27/2016 19:13,Business,,,156.9,
+8/28/2016 9:57,8/28/2016 10:18,Business,,Noorpur Shahan,10.1,
 8/28/2016 16:39,8/28/2016 16:55,Business,Noorpur Shahan,Islamabad,6.2,
 8/28/2016 17:37,8/28/2016 17:55,Business,Islamabad,Islamabad,5.3,
-8/28/2016 21:15,8/28/2016 21:59,Business,Islamabad,Unknown Location,12.1,
-8/29/2016 12:02,8/29/2016 12:31,Business,Unknown Location,Islamabad,10.8,
+8/28/2016 21:15,8/28/2016 21:59,Business,Islamabad,,12.1,
+8/29/2016 12:02,8/29/2016 12:31,Business,,Islamabad,10.8,
 8/29/2016 13:38,8/29/2016 13:48,Business,Islamabad,Islamabad,4.3,
 8/29/2016 14:31,8/29/2016 14:41,Business,Islamabad,Islamabad,2.5,
-8/29/2016 14:49,8/29/2016 15:04,Business,Islamabad,Unknown Location,5.7,Temporary Site
-8/29/2016 15:49,8/29/2016 15:59,Business,Unknown Location,Islamabad,2.8,
-8/29/2016 16:06,8/29/2016 16:21,Business,Islamabad,Unknown Location,4,
-8/29/2016 17:24,8/29/2016 17:41,Business,Unknown Location,Islamabad,5.5,
+8/29/2016 14:49,8/29/2016 15:04,Business,Islamabad,,5.7,Temporary Site
+8/29/2016 15:49,8/29/2016 15:59,Business,,Islamabad,2.8,
+8/29/2016 16:06,8/29/2016 16:21,Business,Islamabad,,4,
+8/29/2016 17:24,8/29/2016 17:41,Business,,Islamabad,5.5,
 8/29/2016 18:27,8/29/2016 18:36,Business,Islamabad,Islamabad,2.6,
-8/30/2016 11:53,8/30/2016 12:05,Business,Unknown Location,Unknown Location,2.1,
-8/30/2016 12:46,8/30/2016 13:09,Business,Unknown Location,Islamabad,8.8,
+8/30/2016 11:53,8/30/2016 12:05,Business,,,2.1,
+8/30/2016 12:46,8/30/2016 13:09,Business,,Islamabad,8.8,
 8/30/2016 13:25,8/30/2016 13:46,Business,Islamabad,Islamabad,4.4,
-8/30/2016 14:00,8/30/2016 14:20,Business,Islamabad,Unknown Location,5.3,
-8/30/2016 17:27,8/30/2016 18:09,Business,Unknown Location,Unknown Location,13,
-09/01/2016 11:51,09/01/2016 12:24,Business,Unknown Location,Islamabad,13,
-09/01/2016 17:21,09/01/2016 17:36,Business,Islamabad,Unknown Location,10.6,
-09/01/2016 18:49,09/01/2016 19:08,Business,Unknown Location,Unknown Location,2.2,
-09/02/2016 11:37,09/02/2016 12:24,Business,Unknown Location,Islamabad,9.2,
-09/02/2016 18:56,09/02/2016 19:37,Business,Unknown Location,Unknown Location,12.9,
-09/05/2016 10:25,09/05/2016 10:44,Business,Unknown Location,Rawalpindi,17.2,
-09/06/2016 17:49,09/06/2016 17:49,Business,Unknown Location,Unknown Location,69.1,
-09/10/2016 10:28,09/10/2016 10:45,Business,Unknown Location,Unknown Location,2.8,
-09/11/2016 09:51,09/11/2016 09:55,Business,Unknown Location,Unknown Location,8.6,
-09/11/2016 21:40,09/11/2016 21:42,Business,Unknown Location,Unknown Location,9.8,
-09/12/2016 08:07,09/12/2016 08:12,Business,Unknown Location,Unknown Location,3.6,
-09/12/2016 11:15,09/12/2016 11:24,Business,Unknown Location,Unknown Location,1.7,
-09/12/2016 13:04,09/12/2016 13:44,Business,Unknown Location,Unknown Location,11.5,
-9/13/2016 16:56,9/13/2016 17:02,Business,Unknown Location,Unknown Location,0.7,
-9/14/2016 11:55,9/14/2016 11:59,Business,Unknown Location,Unknown Location,0.7,
-9/15/2016 20:33,9/15/2016 20:38,Business,Unknown Location,Unknown Location,0.9,
-9/16/2016 7:08,9/16/2016 7:08,Business,Unknown Location,Unknown Location,1.6,
-9/18/2016 18:07,9/18/2016 18:11,Business,Unknown Location,Unknown Location,9.4,
-9/19/2016 6:18,9/19/2016 6:49,Business,Rawalpindi,Unknown Location,18.2,
-9/19/2016 14:40,9/19/2016 14:56,Business,Unknown Location,Islamabad,10.5,
-9/19/2016 16:23,9/19/2016 16:31,Business,Islamabad,Unknown Location,5.7,
-9/19/2016 17:36,9/19/2016 18:20,Business,Unknown Location,Unknown Location,18,
-9/19/2016 19:10,9/19/2016 19:49,Business,Unknown Location,Islamabad,18.3,
-9/20/2016 11:29,9/20/2016 11:48,Business,Islamabad,Unknown Location,16.5,
-9/20/2016 20:47,9/20/2016 22:47,Business,Unknown Location,Rawalpindi,9.6,
+8/30/2016 14:00,8/30/2016 14:20,Business,Islamabad,,5.3,
+8/30/2016 17:27,8/30/2016 18:09,Business,,,13,
+09/01/2016 11:51,09/01/2016 12:24,Business,,Islamabad,13,
+09/01/2016 17:21,09/01/2016 17:36,Business,Islamabad,,10.6,
+09/01/2016 18:49,09/01/2016 19:08,Business,,,2.2,
+09/02/2016 11:37,09/02/2016 12:24,Business,,Islamabad,9.2,
+09/02/2016 18:56,09/02/2016 19:37,Business,,,12.9,
+09/05/2016 10:25,09/05/2016 10:44,Business,,Rawalpindi,17.2,
+09/06/2016 17:49,09/06/2016 17:49,Business,,,69.1,
+09/10/2016 10:28,09/10/2016 10:45,Business,,,2.8,
+09/11/2016 09:51,09/11/2016 09:55,Business,,,8.6,
+09/11/2016 21:40,09/11/2016 21:42,Business,,,9.8,
+09/12/2016 08:07,09/12/2016 08:12,Business,,,3.6,
+09/12/2016 11:15,09/12/2016 11:24,Business,,,1.7,
+09/12/2016 13:04,09/12/2016 13:44,Business,,,11.5,
+9/13/2016 16:56,9/13/2016 17:02,Business,,,0.7,
+9/14/2016 11:55,9/14/2016 11:59,Business,,,0.7,
+9/15/2016 20:33,9/15/2016 20:38,Business,,,0.9,
+9/16/2016 7:08,9/16/2016 7:08,Business,,,1.6,
+9/18/2016 18:07,9/18/2016 18:11,Business,,,9.4,
+9/19/2016 6:18,9/19/2016 6:49,Business,Rawalpindi,,18.2,
+9/19/2016 14:40,9/19/2016 14:56,Business,,Islamabad,10.5,
+9/19/2016 16:23,9/19/2016 16:31,Business,Islamabad,,5.7,
+9/19/2016 17:36,9/19/2016 18:20,Business,,,18,
+9/19/2016 19:10,9/19/2016 19:49,Business,,Islamabad,18.3,
+9/20/2016 11:29,9/20/2016 11:48,Business,Islamabad,,16.5,
+9/20/2016 20:47,9/20/2016 22:47,Business,,Rawalpindi,9.6,
 9/23/2016 13:15,9/23/2016 13:40,Business,Karachi,Karachi,2.9,
-9/24/2016 14:34,9/24/2016 15:15,Business,Karachi,Unknown Location,8.2,
-9/24/2016 20:29,9/24/2016 20:33,Business,Unknown Location,Unknown Location,2.4,
-9/27/2016 8:33,9/27/2016 8:35,Business,Unknown Location,Unknown Location,5.8,
+9/24/2016 14:34,9/24/2016 15:15,Business,Karachi,,8.2,
+9/24/2016 20:29,9/24/2016 20:33,Business,,,2.4,
+9/27/2016 8:33,9/27/2016 8:35,Business,,,5.8,
 9/27/2016 13:21,9/27/2016 14:43,Business,Lahore,Lahore,9.8,
-9/27/2016 19:14,9/27/2016 20:34,Business,Lahore,Unknown Location,7.3,
-9/27/2016 21:01,9/28/2016 2:37,Business,Unknown Location,Unknown Location,195.6,
-9/28/2016 17:21,9/28/2016 19:36,Business,Islamabad,Unknown Location,20.5,
-9/29/2016 16:13,9/29/2016 18:47,Business,Unknown Location,Islamabad,12.6,
+9/27/2016 19:14,9/27/2016 20:34,Business,Lahore,,7.3,
+9/27/2016 21:01,9/28/2016 2:37,Business,,,195.6,
+9/28/2016 17:21,9/28/2016 19:36,Business,Islamabad,,20.5,
+9/29/2016 16:13,9/29/2016 18:47,Business,,Islamabad,12.6,
 9/30/2016 17:39,9/30/2016 20:20,Business,Islamabad,Islamabad,37.7,
-9/30/2016 20:59,9/30/2016 22:34,Business,Islamabad,Unknown Location,16.7,
-10/03/2016 17:09,10/03/2016 17:12,Business,Unknown Location,Islamabad,10.5,
+9/30/2016 20:59,9/30/2016 22:34,Business,Islamabad,,16.7,
+10/03/2016 17:09,10/03/2016 17:12,Business,,Islamabad,10.5,
 10/03/2016 18:17,10/03/2016 18:34,Business,Islamabad,Islamabad,2.8,
 10/03/2016 18:51,10/03/2016 19:01,Business,Islamabad,Islamabad,1.6,
-10/03/2016 22:04,10/03/2016 22:33,Business,Islamabad,Unknown Location,12.7,
-10/04/2016 09:50,10/04/2016 10:52,Business,Unknown Location,Unknown Location,28.6,
-10/04/2016 12:17,10/04/2016 12:18,Business,Unknown Location,Unknown Location,15.1,
-10/06/2016 08:49,10/06/2016 11:36,Business,Unknown Location,Rawalpindi,17.9,
-10/06/2016 17:23,10/06/2016 17:40,Business,Rawalpindi,Unknown Location,112.6,
-10/06/2016 18:37,10/06/2016 18:39,Business,Unknown Location,Unknown Location,18.4,
-10/06/2016 19:46,10/06/2016 20:26,Business,Unknown Location,Unknown Location,13.8,
-10/07/2016 10:56,10/07/2016 10:59,Business,Unknown Location,Lahore,33.2,
+10/03/2016 22:04,10/03/2016 22:33,Business,Islamabad,,12.7,
+10/04/2016 09:50,10/04/2016 10:52,Business,,,28.6,
+10/04/2016 12:17,10/04/2016 12:18,Business,,,15.1,
+10/06/2016 08:49,10/06/2016 11:36,Business,,Rawalpindi,17.9,
+10/06/2016 17:23,10/06/2016 17:40,Business,Rawalpindi,,112.6,
+10/06/2016 18:37,10/06/2016 18:39,Business,,,18.4,
+10/06/2016 19:46,10/06/2016 20:26,Business,,,13.8,
+10/07/2016 10:56,10/07/2016 10:59,Business,,Lahore,33.2,
 10/07/2016 11:27,10/07/2016 11:50,Business,Lahore,Lahore,2.6,
-10/07/2016 13:52,10/07/2016 14:08,Business,Lahore,Unknown Location,5.8,
-10/07/2016 14:29,10/07/2016 15:11,Business,Unknown Location,Lahore,8.3,
+10/07/2016 13:52,10/07/2016 14:08,Business,Lahore,,5.8,
+10/07/2016 14:29,10/07/2016 15:11,Business,,Lahore,8.3,
 10/07/2016 15:47,10/07/2016 16:02,Business,Lahore,Lahore,2.4,
 10/07/2016 18:08,10/07/2016 18:27,Business,Lahore,Lahore,3.1,
 10/07/2016 18:33,10/07/2016 19:01,Business,Lahore,Lahore,6.1,
 10/08/2016 15:03,10/08/2016 15:03,Business,Karachi,Karachi,3.6,
-10/08/2016 18:15,10/08/2016 18:18,Business,Karachi,Unknown Location,8,
-10/09/2016 14:04,10/09/2016 14:23,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+10/08/2016 18:15,10/08/2016 18:18,Business,Karachi,,8,
+10/09/2016 14:04,10/09/2016 14:23,Business,,,7.7,Temporary Site
 10/10/2016 17:22,10/10/2016 17:28,Business,Islamabad,Islamabad,1.7,
-10/10/2016 17:33,10/10/2016 18:13,Business,Islamabad,Unknown Location,9.5,
-10/11/2016 01:27,10/11/2016 02:08,Business,Unknown Location,Rawalpindi,17.1,Meeting
-10/12/2016 19:18,10/12/2016 19:21,Business,Rawalpindi,Unknown Location,18.4,
-10/13/2016 11:20,10/13/2016 11:58,Business,Unknown Location,Islamabad,9.8,
+10/10/2016 17:33,10/10/2016 18:13,Business,Islamabad,,9.5,
+10/11/2016 01:27,10/11/2016 02:08,Business,,Rawalpindi,17.1,Meeting
+10/12/2016 19:18,10/12/2016 19:21,Business,Rawalpindi,,18.4,
+10/13/2016 11:20,10/13/2016 11:58,Business,,Islamabad,9.8,
 10/13/2016 12:08,10/13/2016 12:14,Business,Islamabad,Islamabad,1,
 10/13/2016 13:02,10/13/2016 13:02,Business,Islamabad,Islamabad,0.7,
 10/13/2016 13:37,10/13/2016 13:46,Business,Islamabad,Islamabad,2.3,
-10/13/2016 16:08,10/13/2016 16:53,Business,Islamabad,Unknown Location,10.9,
-10/14/2016 8:50,10/14/2016 9:44,Business,Unknown Location,Rawalpindi,12.7,
-10/14/2016 10:16,10/14/2016 10:52,Business,Rawalpindi,Unknown Location,12.4,
-10/14/2016 15:56,10/14/2016 16:20,Business,Unknown Location,Unknown Location,3.8,
-10/14/2016 23:54,10/15/2016 2:06,Business,Unknown Location,Rawalpindi,17,Meeting
+10/13/2016 16:08,10/13/2016 16:53,Business,Islamabad,,10.9,
+10/14/2016 8:50,10/14/2016 9:44,Business,,Rawalpindi,12.7,
+10/14/2016 10:16,10/14/2016 10:52,Business,Rawalpindi,,12.4,
+10/14/2016 15:56,10/14/2016 16:20,Business,,,3.8,
+10/14/2016 23:54,10/15/2016 2:06,Business,,Rawalpindi,17,Meeting
 10/15/2016 22:28,10/15/2016 22:48,Business,Morrisville,Morrisville,6.2,
 10/16/2016 0:01,10/16/2016 0:14,Business,Morrisville,Cary,3.1,
 10/16/2016 12:52,10/16/2016 13:11,Business,Cary,Durham,10.5,Meeting
@@ -984,8 +984,8 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 11/20/2016 17:45,11/20/2016 18:37,Business,Cary,Cary,18.5,Errand/Supplies
 11/21/2016 13:37,11/21/2016 13:49,Business,Cary,Cary,2.5,Meal/Entertain
 11/21/2016 14:34,11/21/2016 14:44,Business,Cary,Cary,2.1,Meal/Entertain
-11/21/2016 17:50,11/21/2016 18:04,Business,Cary,Unknown Location,6.7,Errand/Supplies
-11/21/2016 18:18,11/21/2016 18:27,Business,Unknown Location,Morrisville,3.5,Meal/Entertain
+11/21/2016 17:50,11/21/2016 18:04,Business,Cary,,6.7,Errand/Supplies
+11/21/2016 18:18,11/21/2016 18:27,Business,,Morrisville,3.5,Meal/Entertain
 11/21/2016 18:43,11/21/2016 18:51,Business,Morrisville,Cary,3.4,Errand/Supplies
 11/22/2016 15:12,11/22/2016 15:27,Business,Cary,Cary,5.5,Meeting
 11/22/2016 15:31,11/22/2016 15:44,Business,Cary,Cary,4.1,Meeting
@@ -1054,56 +1054,56 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 12/14/2016 17:50,12/14/2016 18:00,Business,Cary,Morrisville,3,Meal/Entertain
 12/14/2016 20:24,12/14/2016 20:40,Business,Morrisville,Cary,3.1,Customer Visit
 12/15/2016 14:20,12/15/2016 14:54,Business,Cary,Morrisville,10.6,Meeting
-12/17/2016 15:38,12/17/2016 16:12,Business,Unknown Location,Unknown Location,4.8,Airport/Travel
-12/17/2016 17:19,12/17/2016 17:59,Business,Unknown Location,Unknown Location,5.3,Temporary Site
-12/18/2016 13:03,12/18/2016 13:41,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
-12/18/2016 16:38,12/18/2016 17:25,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
-12/18/2016 20:35,12/18/2016 21:04,Business,Unknown Location,Unknown Location,9.2,
-12/19/2016 9:08,12/19/2016 9:36,Business,Unknown Location,Islamabad,7.7,Errand/Supplies
+12/17/2016 15:38,12/17/2016 16:12,Business,,,4.8,Airport/Travel
+12/17/2016 17:19,12/17/2016 17:59,Business,,,5.3,Temporary Site
+12/18/2016 13:03,12/18/2016 13:41,Business,,,4.9,Errand/Supplies
+12/18/2016 16:38,12/18/2016 17:25,Business,,,10.2,Errand/Supplies
+12/18/2016 20:35,12/18/2016 21:04,Business,,,9.2,
+12/19/2016 9:08,12/19/2016 9:36,Business,,Islamabad,7.7,Errand/Supplies
 12/19/2016 10:15,12/19/2016 10:34,Business,Islamabad,Rawalpindi,5.9,Temporary Site
-12/19/2016 13:04,12/19/2016 13:08,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
-12/19/2016 13:24,12/19/2016 13:35,Business,Unknown Location,Unknown Location,1.3,
-12/19/2016 14:07,12/19/2016 14:15,Business,Unknown Location,Unknown Location,2.5,
-12/19/2016 14:18,12/19/2016 14:32,Business,Unknown Location,Unknown Location,5.3,
-12/19/2016 14:37,12/19/2016 14:50,Business,Unknown Location,Unknown Location,5.4,
-12/19/2016 15:09,12/19/2016 15:38,Business,Unknown Location,Rawalpindi,10.2,Customer Visit
+12/19/2016 13:04,12/19/2016 13:08,Business,Rawalpindi,,0.7,Errand/Supplies
+12/19/2016 13:24,12/19/2016 13:35,Business,,,1.3,
+12/19/2016 14:07,12/19/2016 14:15,Business,,,2.5,
+12/19/2016 14:18,12/19/2016 14:32,Business,,,5.3,
+12/19/2016 14:37,12/19/2016 14:50,Business,,,5.4,
+12/19/2016 15:09,12/19/2016 15:38,Business,,Rawalpindi,10.2,Customer Visit
 12/19/2016 16:50,12/19/2016 17:09,Business,Rawalpindi,Islamabad,7.2,Customer Visit
-12/19/2016 19:05,12/19/2016 19:17,Business,Islamabad,Unknown Location,2.2,
-12/19/2016 19:55,12/19/2016 20:30,Business,Unknown Location,Unknown Location,11,Meeting
-12/20/2016 8:49,12/20/2016 9:24,Business,Unknown Location,Rawalpindi,12,
+12/19/2016 19:05,12/19/2016 19:17,Business,Islamabad,,2.2,
+12/19/2016 19:55,12/19/2016 20:30,Business,,,11,Meeting
+12/20/2016 8:49,12/20/2016 9:24,Business,,Rawalpindi,12,
 12/20/2016 10:30,12/20/2016 10:48,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
-12/20/2016 11:30,12/20/2016 12:17,Business,Rawalpindi,Unknown Location,19.4,Meeting
-12/20/2016 13:14,12/20/2016 13:20,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
-12/20/2016 13:54,12/20/2016 14:17,Business,Unknown Location,Islamabad,5.7,Temporary Site
+12/20/2016 11:30,12/20/2016 12:17,Business,Rawalpindi,,19.4,Meeting
+12/20/2016 13:14,12/20/2016 13:20,Business,,,1.7,Errand/Supplies
+12/20/2016 13:54,12/20/2016 14:17,Business,,Islamabad,5.7,Temporary Site
 12/20/2016 16:14,12/20/2016 16:24,Business,Islamabad,Islamabad,1.8,Errand/Supplies
 12/20/2016 16:56,12/20/2016 17:07,Business,Islamabad,Islamabad,1.4,Errand/Supplies
-12/20/2016 18:47,12/20/2016 19:21,Business,Islamabad,Unknown Location,10.3,Customer Visit
-12/21/2016 7:42,12/21/2016 8:10,Business,Unknown Location,Unknown Location,11.5,Meeting
-12/21/2016 10:14,12/21/2016 10:30,Business,Unknown Location,Islamabad,4.9,Errand/Supplies
-12/21/2016 11:35,12/21/2016 11:49,Business,Islamabad,Unknown Location,3.5,Meal/Entertain
-12/21/2016 12:51,12/21/2016 13:33,Business,Unknown Location,Unknown Location,16.2,Meeting
-12/21/2016 15:38,12/21/2016 15:49,Business,Unknown Location,Unknown Location,2,Errand/Supplies
-12/21/2016 15:55,12/21/2016 16:05,Business,Unknown Location,Islamabad,2.1,Errand/Supplies
+12/20/2016 18:47,12/20/2016 19:21,Business,Islamabad,,10.3,Customer Visit
+12/21/2016 7:42,12/21/2016 8:10,Business,,,11.5,Meeting
+12/21/2016 10:14,12/21/2016 10:30,Business,,Islamabad,4.9,Errand/Supplies
+12/21/2016 11:35,12/21/2016 11:49,Business,Islamabad,,3.5,Meal/Entertain
+12/21/2016 12:51,12/21/2016 13:33,Business,,,16.2,Meeting
+12/21/2016 15:38,12/21/2016 15:49,Business,,,2,Errand/Supplies
+12/21/2016 15:55,12/21/2016 16:05,Business,,Islamabad,2.1,Errand/Supplies
 12/21/2016 17:45,12/21/2016 17:54,Business,Islamabad,Islamabad,2.1,Meeting
-12/21/2016 17:59,12/21/2016 18:31,Business,Islamabad,Unknown Location,7.2,Customer Visit
-12/21/2016 19:49,12/21/2016 20:35,Business,Unknown Location,Rawalpindi,12,Meeting
-12/21/2016 20:56,12/21/2016 23:42,Business,Rawalpindi,Unknown Location,103,Meeting
-12/22/2016 15:40,12/22/2016 16:38,Business,Unknown Location,Unknown Location,32.3,Meeting
-12/22/2016 17:04,12/22/2016 17:20,Business,Unknown Location,Unknown Location,5.3,Customer Visit
-12/22/2016 17:27,12/22/2016 17:53,Business,Unknown Location,Unknown Location,11.6,Meeting
-12/22/2016 17:56,12/22/2016 18:29,Business,Unknown Location,Unknown Location,23.2,Meeting
-12/22/2016 18:31,12/22/2016 18:37,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
-12/22/2016 18:38,12/22/2016 18:47,Business,Unknown Location,Unknown Location,12.3,Temporary Site
-12/22/2016 19:04,12/22/2016 19:50,Business,Unknown Location,Lahore,14,Meeting
+12/21/2016 17:59,12/21/2016 18:31,Business,Islamabad,,7.2,Customer Visit
+12/21/2016 19:49,12/21/2016 20:35,Business,,Rawalpindi,12,Meeting
+12/21/2016 20:56,12/21/2016 23:42,Business,Rawalpindi,,103,Meeting
+12/22/2016 15:40,12/22/2016 16:38,Business,,,32.3,Meeting
+12/22/2016 17:04,12/22/2016 17:20,Business,,,5.3,Customer Visit
+12/22/2016 17:27,12/22/2016 17:53,Business,,,11.6,Meeting
+12/22/2016 17:56,12/22/2016 18:29,Business,,,23.2,Meeting
+12/22/2016 18:31,12/22/2016 18:37,Business,,,3.2,Errand/Supplies
+12/22/2016 18:38,12/22/2016 18:47,Business,,,12.3,Temporary Site
+12/22/2016 19:04,12/22/2016 19:50,Business,,Lahore,14,Meeting
 12/22/2016 21:41,12/22/2016 21:53,Business,Lahore,Lahore,2.1,Meal/Entertain
 12/22/2016 23:27,12/22/2016 23:32,Business,Lahore,Lahore,2.1,Customer Visit
 12/23/2016 9:21,12/23/2016 9:41,Business,Lahore,Lahore,3,Meeting
-12/23/2016 11:33,12/23/2016 11:58,Business,Lahore,Unknown Location,6.2,Meeting
-12/23/2016 14:15,12/23/2016 15:25,Business,Unknown Location,Unknown Location,9.6,Meeting
-12/23/2016 16:23,12/23/2016 16:34,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies
-12/23/2016 17:34,12/23/2016 18:27,Business,Unknown Location,Lahore,7.1,Meal/Entertain
-12/24/2016 7:43,12/24/2016 8:04,Business,Lahore,Unknown Location,6.3,Meal/Entertain
-12/24/2016 9:19,12/24/2016 9:55,Business,Unknown Location,Lahore,10.7,Meal/Entertain
+12/23/2016 11:33,12/23/2016 11:58,Business,Lahore,,6.2,Meeting
+12/23/2016 14:15,12/23/2016 15:25,Business,,,9.6,Meeting
+12/23/2016 16:23,12/23/2016 16:34,Business,,,1.3,Errand/Supplies
+12/23/2016 17:34,12/23/2016 18:27,Business,,Lahore,7.1,Meal/Entertain
+12/24/2016 7:43,12/24/2016 8:04,Business,Lahore,,6.3,Meal/Entertain
+12/24/2016 9:19,12/24/2016 9:55,Business,,Lahore,10.7,Meal/Entertain
 12/24/2016 10:34,12/24/2016 10:53,Business,Lahore,Lahore,5.3,Meal/Entertain
 12/24/2016 12:51,12/24/2016 12:53,Business,Lahore,Lahore,1.6,Errand/Supplies
 12/24/2016 13:08,12/24/2016 13:29,Business,Lahore,Lahore,3.6,Errand/Supplies
@@ -1117,41 +1117,41 @@ START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
 12/26/2016 9:05,12/26/2016 9:19,Business,Lahore,Lahore,6.2,Customer Visit
 12/26/2016 10:15,12/26/2016 10:36,Business,Lahore,Lahore,7.7,Customer Visit
 12/26/2016 11:29,12/26/2016 11:42,Business,Lahore,Lahore,3.8,Customer Visit
-12/26/2016 13:09,12/26/2016 13:43,Business,Lahore,Unknown Location,7.9,Meeting
+12/26/2016 13:09,12/26/2016 13:43,Business,Lahore,,7.9,Meeting
 12/27/2016 7:02,12/27/2016 7:14,Business,Karachi,Karachi,4.9,Temporary Site
 12/27/2016 8:37,12/27/2016 8:59,Business,Karachi,Karachi,5,Meal/Entertain
 12/27/2016 12:53,12/27/2016 12:57,Business,Karachi,Karachi,0.6,Meal/Entertain
-12/27/2016 14:49,12/27/2016 15:03,Business,Karachi,Unknown Location,3.1,Customer Visit
-12/27/2016 16:34,12/27/2016 16:58,Business,Unknown Location,Karachi,7.9,Meeting
+12/27/2016 14:49,12/27/2016 15:03,Business,Karachi,,3.1,Customer Visit
+12/27/2016 16:34,12/27/2016 16:58,Business,,Karachi,7.9,Meeting
 12/27/2016 19:19,12/27/2016 19:50,Business,Karachi,Karachi,5.5,Customer Visit
-12/28/2016 8:34,12/28/2016 9:06,Business,Karachi,Unknown Location,10.3,Meal/Entertain
-12/28/2016 11:42,12/28/2016 12:12,Business,Unknown Location,Karachi,10.4,Errand/Supplies
+12/28/2016 8:34,12/28/2016 9:06,Business,Karachi,,10.3,Meal/Entertain
+12/28/2016 11:42,12/28/2016 12:12,Business,,Karachi,10.4,Errand/Supplies
 12/28/2016 13:53,12/28/2016 14:01,Business,Karachi,Karachi,2,Errand/Supplies
-12/28/2016 15:04,12/28/2016 15:39,Business,Karachi,Unknown Location,8.5,Meal/Entertain
-12/28/2016 17:02,12/28/2016 17:16,Business,Unknown Location,Karachi,4.4,Errand/Supplies
+12/28/2016 15:04,12/28/2016 15:39,Business,Karachi,,8.5,Meal/Entertain
+12/28/2016 17:02,12/28/2016 17:16,Business,,Karachi,4.4,Errand/Supplies
 12/28/2016 18:33,12/28/2016 18:56,Business,Karachi,Karachi,3.8,Errand/Supplies
 12/28/2016 22:44,12/28/2016 23:18,Business,Karachi,Karachi,5.1,Errand/Supplies
 12/29/2016 0:49,12/29/2016 1:06,Business,Karachi,Karachi,3.8,Errand/Supplies
-12/29/2016 9:44,12/29/2016 10:07,Business,Karachi,Unknown Location,11.6,Meal/Entertain
-12/29/2016 11:28,12/29/2016 12:00,Business,Unknown Location,Karachi,11.9,Meal/Entertain
+12/29/2016 9:44,12/29/2016 10:07,Business,Karachi,,11.6,Meal/Entertain
+12/29/2016 11:28,12/29/2016 12:00,Business,,Karachi,11.9,Meal/Entertain
 12/29/2016 12:25,12/29/2016 12:33,Business,Karachi,Karachi,1.4,Errand/Supplies
 12/29/2016 13:17,12/29/2016 13:24,Business,Karachi,Karachi,1.1,Errand/Supplies
 12/29/2016 13:56,12/29/2016 14:11,Business,Karachi,Karachi,4.1,Airport/Travel
 12/29/2016 14:42,12/29/2016 14:58,Business,Karachi,Karachi,6.1,Between Offices
 12/29/2016 15:05,12/29/2016 15:16,Business,Karachi,Karachi,1.3,Errand/Supplies
-12/29/2016 18:59,12/29/2016 19:14,Business,Karachi,Unknown Location,3,Meal/Entertain
-12/29/2016 19:50,12/29/2016 20:10,Business,Unknown Location,Karachi,4.1,Customer Visit
+12/29/2016 18:59,12/29/2016 19:14,Business,Karachi,,3,Meal/Entertain
+12/29/2016 19:50,12/29/2016 20:10,Business,,Karachi,4.1,Customer Visit
 12/29/2016 20:15,12/29/2016 20:45,Business,Karachi,Karachi,7.2,Meeting
-12/29/2016 20:53,12/29/2016 21:42,Business,Karachi,Unknown Location,6.4,
-12/29/2016 23:14,12/29/2016 23:47,Business,Unknown Location,Karachi,12.9,Meeting
+12/29/2016 20:53,12/29/2016 21:42,Business,Karachi,,6.4,
+12/29/2016 23:14,12/29/2016 23:47,Business,,Karachi,12.9,Meeting
 12/30/2016 10:15,12/30/2016 10:33,Business,Karachi,Karachi,2.8,Errand/Supplies
 12/30/2016 11:31,12/30/2016 11:56,Business,Karachi,Karachi,2.9,Errand/Supplies
 12/30/2016 15:41,12/30/2016 16:03,Business,Karachi,Karachi,4.6,Errand/Supplies
 12/30/2016 16:45,12/30/2016 17:08,Business,Karachi,Karachi,4.6,Meeting
 12/30/2016 23:06,12/30/2016 23:10,Business,Karachi,Karachi,0.8,Customer Visit
 12/31/2016 1:07,12/31/2016 1:14,Business,Karachi,Karachi,0.7,Meeting
-12/31/2016 13:24,12/31/2016 13:42,Business,Karachi,Unknown Location,3.9,Temporary Site
-12/31/2016 15:03,12/31/2016 15:38,Business,Unknown Location,Unknown Location,16.2,Meeting
+12/31/2016 13:24,12/31/2016 13:42,Business,Karachi,,3.9,Temporary Site
+12/31/2016 15:03,12/31/2016 15:38,Business,,,16.2,Meeting
 12/31/2016 21:32,12/31/2016 21:50,Business,Katunayake,Gampaha,6.4,Temporary Site
 12/31/2016 22:08,12/31/2016 23:51,Business,Gampaha,Ilukwatta,48.2,Temporary Site
 Totals,,,,,12204.7,
